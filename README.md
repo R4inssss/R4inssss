@@ -22,6 +22,9 @@ College Student, learning the in's and out's of everything! Current Projects: Ho
 
 ### Badges
 
+<b>Tryhackme Stats</b>
+<a href="https://tryhackme.com/p/rainssss><img src="https://tryhackme-badges.s3.amazonaws.com/rainssss.png" alt="TryHackMe" alt="r4insss TryHackMe stats" /></a>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/r4inssss"><img src="https://github-readme-stats.vercel.app/api?username=r4inssss&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=10b981&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="r4inssss's GitHub stats" /></a>
