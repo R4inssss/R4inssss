@@ -4,7 +4,7 @@ Hi 👋 My name is R4inssss
 CyberSec/InfoSec
 ----------------
 
-College Student, learning the in's and out's of everything! Current Projects: Homelab running Proxmox as primary hypervisor; Segregated Networks (using both tl108e and hperv) VLANs and using PFsense as primary firewall for homelab, with mesh network set up using ww-drt; Main Linux OS: Kali Linux;
+College Student, learning the in's and out's of everything! Current Projects: Homelab running Proxmox as primary hypervisor; Segregated Networks (using both tl108e and hperv) VLANs and using PFsense as primary firewall for homelab, with mesh network set up  tp-s4's (trying to experiment ways to get into telnet to use openwrt with it);  Main Linux OS: Kali Linux;
 
 * 🌍  I'm based in Seattle
 * 🧠  I'm learning Python; C; PS; Bash; SQL
