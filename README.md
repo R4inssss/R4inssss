@@ -8,7 +8,10 @@ College Student, learning the in's and out's of everything! Current Projects: Ho
 
 * 🌍  I'm based in Seattle
 * 🧠  I'm learning Python; C; PS; Bash; SQL
-* 🤝  I'm open to collaborating on Projects
+* 🤝  I'm open to collaborating on Projects\
+
+### Certifications
+* A+ 1101 (10/26/2023)
 
 ### Skills
 
