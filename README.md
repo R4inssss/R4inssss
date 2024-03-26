@@ -11,7 +11,8 @@ College Student, learning the in's and out's of everything! Current Projects: Ho
 * 🤝  I'm open to collaborating on Projects\
 
 ### Certifications
-* A+ 1101 11.23
+* A+ 1101/1102 11.23
+* N+ 008 3.24
 
 ### Skills
 
