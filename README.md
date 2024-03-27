@@ -14,7 +14,7 @@ College Student, learning the in's and out's of everything! Current Projects: Ho
 * A+ 1101/1102 11.23
 * N+ 008 3.24
 ### Competitions
-* PRCCDC - 4th place regionals
+* PRCCDC - 4th place regionals (2024)
 
 ### Skills
 
