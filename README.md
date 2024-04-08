@@ -17,6 +17,7 @@ Feel free to Connect: https://www.linkedin.com/in/peter-bui-n/
 * N+ 008 3.24
 ### Competitions
 * PRCCDC - 4th place regionals (2024)
+* NCL - ~1700 Individual (Spring 2024)
 
 ### Skills
 
