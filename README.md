@@ -6,8 +6,6 @@ CyberSec/InfoSec
 
 College Student, learning the in's and out's of everything! Current Projects: Homelab running Proxmox as primary hypervisor | I somehow got docker to run in my cluster!; Segregated Networks (vSwitches,VLANS, and internal VPN) and using PFsense as primary firewall for homelab, with mesh network set up  tp-s4's ;  Windows/Linux Enthusiast ;
 
-Feel free to Connect: https://www.linkedin.com/in/peter-bui-n/
-
 * 🌍  I'm based in Seattle
 * 🧠  I'm learning Python; C; PS; Bash; SQL
 * 🤝  I'm open to collaborating on Projects
