@@ -10,7 +10,7 @@ Feel free to Connect: https://www.linkedin.com/in/peter-bui-n/
 
 * 🌍  I'm based in Seattle
 * 🧠  I'm learning Python; C; PS; Bash; SQL
-* 🤝  I'm open to collaborating on Projects\
+* 🤝  I'm open to collaborating on Projects
 
 ### Certifications
 * A+ 1101/1102 11.23
@@ -27,7 +27,7 @@ Feel free to Connect: https://www.linkedin.com/in/peter-bui-n/
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/r4inssss" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/r4inssss" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/peter-bui-n/" target ="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/linkedin-128.png" /> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/linkedin-128.png" width="32" height="32" /> </picture> </a> </p>
 
 ### Badges
 
