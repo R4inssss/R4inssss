@@ -16,6 +16,7 @@ College Student, learning the in's and out's of everything! Current Projects: Ho
 ### Competitions
 * PRCCDC - 4th place regionals (2024)
 * NCL - ~1700 Individual (Spring 2024)
+* NCL - ~360 Team (Spring 2024) - I did lots of python in this one :)
 
 ### Skills
 
