@@ -4,21 +4,24 @@ Hi 👋 My name is R4inssss
 CyberSec/InfoSec
 ----------------
 
-College Student, learning the in's and out's of everything! Current Projects: Homelab running Proxmox, Elk stack, Pihole+Pfsense, fastAPI workers, etc...| Couple of cloud stuff (AWS, Heroku, Google, Digital Ocean) | Small breadboard CPU w/ L1 cache | Windows/Linux Enthusiast ;
+College Student, learning the in's and out's of everything! Current Projects: Homelab running Proxmox, Elk stack, Pihole+Pfsense, fastAPI workers, AWS Jumpbox |  Couple of cloud stuff (AWS, Heroku, Google, Digital Ocean) | Small breadboard CPU w/ L1 cache | Some ML / Compression things ;
 
 * 🌍  I'm based in Seattle
-* 🧠  I'm learning Python; C/C++; PS; Bash; SQL(psql/mongoDB); JS (Node/React);
+* 🧠  I'm learning Python; C/C++; PS; Bash; SQL(psql/mongoDB); JS (Node/React); ML;
 * 🤝  I'm open to collaborating on Projects
 
 ### Certifications
 * A+ 1101/1102 11.23
 * N+ 008 3.24
 * Working on L+
+
 ### Competitions
 * PRCCDC - 4th place regionals (2024)
 * NCL - ~1700 Individual (Spring 2024)
 * NCL - ~360 Team (Spring 2024) - I did lots of python in this one :) | 72nd Enumeration!
 * Seattle Nasa Space Apps: Most inspirational Award (Fall 2024)
+* DOE Cyberforce - Linux Fullstack/sysadmin
+* HTB NW Regionals - 2nd Place
 
 ### Skills
 
@@ -34,7 +37,7 @@ College Student, learning the in's and out's of everything! Current Projects: Ho
 
 <b>Tryhackme Stats</b>
 
-<a href="https://tryhackme.com/p/rainssss"><img src="https://tryhackme-badges.s3.amazonaws.com/rainssss.png" alt="r4insss TryHackMe stats" /></a>
+<a href="https://tryhackme.com/p/rainssss"><img src="https://tryhackme-badges.s3.amazonaws.com/rainssss.png?update=1" alt="r4insss TryHackMe stats" /></a>
 
 <b>My GitHub Stats</b>
 
