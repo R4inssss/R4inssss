@@ -17,7 +17,7 @@ College Student, learning the in's and out's of everything! Current Projects: Ho
 * Working on L+
 
 ### Competitions
-* PRCCDC - 4th place regionals (2024)
+* PRCCDC - 4th place regionals (2024) | 5th Place regionals (2025)
 * NCL - ~1700 Individual (Spring 2024)
 * NCL - ~360 Team (Spring 2024) - I did lots of python in this one :) | 72nd Enumeration!
 * Seattle Nasa Space Apps: Most inspirational Award (Fall 2024)
