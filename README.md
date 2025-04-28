@@ -4,10 +4,11 @@ Hi 👋 My name is R4inssss
 CyberSec/InfoSec
 ----------------
 
-College Student, learning the in's and out's of everything! Current Projects: Homelab running Proxmox, Elk stack, Pihole+Pfsense, fastAPI workers, AWS Jumpbox |  Couple of cloud stuff (AWS, Heroku, Google, Digital Ocean) | Small breadboard CPU w/ L1 cache | Some ML / Compression things ;
+College Student, learning the in's and out's of everything! Current Projects: Homelab running Proxmox, Elk stack (Filebeat instead of logstash), Pihole+Pfsense, fastAPI workers, AWS Jumpbox |  Couple of cloud stuff (AWS, Heroku, Google, Digital Ocean) | Small breadboard CPU w/ L1 cache | Some ML / Compression things ;
+Latest Projects: PRCCDC Pipeline. IDS (Using filebeat)
 
 * 🌍  I'm based in Seattle
-* 🧠  I'm learning Python; C/C++; PS; Bash; SQL(psql/mongoDB); JS (Node/React); ML;
+* 🧠  I'm learning Python; Java; C/C++; PS; Bash; SQL(psql/mongoDB); JS (Node/React); ML;
 * 🤝  I'm open to collaborating on Projects
 
 ### Certifications
@@ -18,8 +19,8 @@ College Student, learning the in's and out's of everything! Current Projects: Ho
 
 ### Competitions
 * PRCCDC - 4th place regionals (2024) | 5th Place regionals (2025)
-* NCL - ~1700 Individual (Spring 2024)
-* NCL - ~360 Team (Spring 2024) - I did lots of python in this one :) | 72nd Enumeration!
+* NCL - ~1700 Individual (Spring 2024)           
+* NCL - ~360 Team (Spring 2024) - 72nd Enumeration | NCL - 326 Team (Spring 2025) - 38th Crytography (Sole) - 143rd Enum (Sole)
 * Seattle Nasa Space Apps: Most inspirational Award (Fall 2024)
 * DOE Cyberforce - Linux Fullstack/sysadmin
 * HTB NW Regionals - 2nd Place
